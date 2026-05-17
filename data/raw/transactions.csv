@@ -1,0 +1,1 @@
+transaction_id,customer_id,channel,product,amount,currency,timestamp,status,fraud_flag
