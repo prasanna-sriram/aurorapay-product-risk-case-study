@@ -1,0 +1,9 @@
+risk_id,severity,incident_count,total_duration_minutes,risk_category
+R1,Critical,1,57.0,Operational
+R11,Medium,1,15839.983333333334,Technology & Security
+R2,High,1,95.0,Operational
+R3,High,1,24479.983333333334,Fraud
+R4,Medium,1,12959.983333333334,Fraud
+R5,High,1,105.0,Technology & Security
+R7,High,1,45.0,Third-Party
+R9,High,1,20095.0,Regulatory & Oversight

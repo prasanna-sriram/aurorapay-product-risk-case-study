@@ -1,0 +1,9 @@
+risk_id,severity,status,issues_count
+R11,High,Open,1
+R12,High,Open,1
+R3,High,In Progress,1
+R3,Medium,Open,1
+R5,Critical,In Progress,1
+R6,Medium,Open,1
+R7,High,Open,1
+R9,High,Open,1

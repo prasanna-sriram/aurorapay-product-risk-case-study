@@ -1,0 +1,3 @@
+product,txn_count,txn_volume,fraud_txn,fraud_rate
+Debit,59798,1653687.2,31,0.0005184119870229773
+e-Transfer,40202,1105608.76,116,0.002885428585642505
