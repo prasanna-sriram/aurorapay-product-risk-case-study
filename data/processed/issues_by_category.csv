@@ -1,0 +1,9 @@
+risk_category,severity,issue_count
+Fraud,High,1
+Fraud,Medium,1
+Operational,High,1
+Regulatory & Oversight,High,1
+Technology & Security,Critical,1
+Technology & Security,High,1
+Technology & Security,Medium,1
+Third-Party,High,1

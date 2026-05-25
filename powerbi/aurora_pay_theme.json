@@ -1,0 +1,44 @@
+{
+    "name": "AuroraPay Executive Risk",
+    "dataColors": [
+        "#FFB92A",
+        "#F5A623",
+        "#2F6F73",
+        "#C9812B",
+        "#59616A",
+        "#3C4148",
+        "#A1A7AE",
+        "#38A169",
+        "#E53E3E"
+    ],
+    "background": "#181B20",
+    "foreground": "#F4F5F7",
+    "tableAccent": "#FFB92A",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "title": [
+                    {
+                        "fontFamily": "Segoe UI",
+                        "fontSize": 16,
+                        "color": {
+                            "solid": {
+                                "color": "#F4F5F7"
+                            }
+                        }
+                    }
+                ],
+                "background": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#23272F"
+                            }
+                        },
+                        "transparency": 0
+                    }
+                ]
+            }
+        }
+    }
+}

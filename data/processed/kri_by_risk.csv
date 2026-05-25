@@ -1,0 +1,13 @@
+risk_id,risk_category,risk_name,risk_appetite_statement,total_incidents,critical_high_incidents,high_critical_issues
+R1,Operational,Major AuroraPay e-Transfer outage,No more than 1 major AuroraPay e-Transfer outage per quarter; unplanned downtime ≤ 60 minutes per quarter.,1.0,1.0,0.0
+R2,Operational,Chronic minor instability impacting payments,No more than 4 minor incidents per month causing customer or participant-visible disruption.,1.0,1.0,0.0
+R3,Fraud,Social engineering and scam fraud,Fraud loss should not exceed 5 basis points (0.05%) of total AuroraPay e-Transfer volume on a rolling 12-month basis.,1.0,1.0,1.0
+R4,Fraud,Account takeover enabling unauthorized payments,Zero tolerance for systemic control failures; account takeover loss ≤ 2 basis points (0.02%) of volume and trending downward.,1.0,0.0,0.0
+R5,Technology & Security,Excessive privileged access to core AuroraPay systems,No unresolved critical findings on privileged access; all privileged access reviewed at least quarterly.,1.0,1.0,1.0
+R6,Technology & Security,Insufficient security monitoring of payments infrastructure,Critical systems must have centralized logging and high-severity security alerts with defined SLAs for triage and response.,0.0,0.0,0.0
+R7,Third-Party,Critical vendor outage impacting transaction processing,No more than 2 high-impact critical vendor outages per year; contracted RTO/RPO must be met in ≥ 95% of incidents.,1.0,1.0,1.0
+R8,Third-Party,Vendor-managed control weaknesses,Zero tolerance for unremediated critical vendor control deficiencies beyond agreed target dates.,0.0,0.0,0.0
+R9,Regulatory & Oversight,Failure to meet incident and change notification expectations,Zero tolerance for confirmed breaches of material notification obligations.,1.0,1.0,1.0
+R10,Regulatory & Oversight,Inability to demonstrate alignment to risk appetite,All material product risk decisions must be documented with clear rationale and linkage to risk appetite.,0.0,0.0,0.0
+R11,Technology & Security,Incomplete or ineffective privileged access reviews,100% of in-scope privileged roles must be reviewed at least quarterly with documented challenge; no critical overdue recertifications.,1.0,0.0,1.0
+R12,Operational,Inadequate remediation of recurring incident root causes,All high-severity incidents must have documented root cause and remediation actions; no more than 1 repeat major incident with the same primary cause in a 12-month period.,0.0,0.0,1.0
